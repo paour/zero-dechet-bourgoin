@@ -29,7 +29,8 @@ twitter_username: paour
 github_username:  paour
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
 
